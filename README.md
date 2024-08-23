@@ -79,6 +79,8 @@
 - 내가 쓴 글/ 좋아요/ 북마크 기록 확인
 - 커피챗 수락/거절 기능
 
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/d6161b74-0997-43a7-bdff-bccf9e4b7e78)
+
 ## 🎯주요 기능
 
 - 게시판 기능(create, detail, update,list)
