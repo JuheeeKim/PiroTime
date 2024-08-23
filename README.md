@@ -32,6 +32,8 @@
 - 유저 회원가입/로그인
 - 회원가입/로그인을 하면 start 페이지로 넘어간다.
 
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/fea7856a-9d8c-4922-accf-8d8489359861)
+
 #### 시작 페이지
 
 - 각 게시판 인기글 확인 가능
@@ -44,12 +46,16 @@
 - 커피챗 프로필 기수별 확인
 - 커피챗 리뷰 작성/관리
 
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/8e6a1eeb-da33-46ce-9404-647d685f37df)
+
 #### 프로젝트 리뷰
 
 - 프로젝트 리뷰/피드백을 받는 공간이다.
 - 게시판 CRUD
 - 깃허브 URL 등록
 - 북마크/좋아요 -> 마이페이지에서 확인 가능
+
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/a658414d-f1f5-4445-b79a-bd37cfb849fc)
 
 #### 프로젝트 협업
 
@@ -58,11 +64,15 @@
 - 게시판 CRUD
 - 북마크/좋아요 -> 마이페이지에서 확인 가능
 
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/2761259c-ddbf-475a-ae89-38004b849c4c)
+
 #### IT 동향
 
 - IT 동향을 공유하는 공간이다
 - 게시판 CRUD
 - 북마크/좋아요 -> 마이페이지에서 확인 가능
+
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/6ab2729d-eae8-4c35-a9c9-d11e374a93a6)
 
 #### 마이페이지
 
