@@ -25,7 +25,7 @@
 - 'About PiroTime' 으로 플랫폼 소개
 - 주요 기능을 나열
 
-![PiroTime - Chrome 2024-08-19 20-13-35](https://private-user-images.githubusercontent.com/123529128/359081903-d9e7f347-8a09-463c-9094-376a4ef7d033.gif)
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/d48131a4-27b9-4750-bf4e-23772d2123e2)
 
 #### 회원가입 & 로그인 & 로그아웃
 
@@ -121,16 +121,13 @@
 # 📂기획 및 설계 산출물
 
 ## 💭요구사항 정의 및 기능 명세([Notion](https://www.notion.so/ebb329f0e6f749e0947046f1dfa628d8?v=fd2c8b8ab04d4e06a10654310a2e4638)) - 일부 캡쳐
-
-<img width="950" alt="PiroTIme_기능명세" src="https://github.com/user-attachments/assets/d31e7684-0085-4a9c-8298-1d672edbcc58">
+<img src="https://github.com/user-attachments/assets/d1b4a673-c1ba-464f-995b-f03fb4f9d8bb" alt="기능 명세서" width="1000"  height="400">
 
 ## 🎨화면 설계([Figma](https://www.figma.com/design/GNy9zyW1y3IQk1oaukzBrK/PiroTime?node-id=70-4&t=HZbUcis6l2gl7siK-0))
-
-<img width="700" alt="PiroTime_피그마" src="https://github.com/user-attachments/assets/6b56cea8-31b7-4582-9947-618d54afe87e">
+<img src="https://github.com/user-attachments/assets/fa32a01d-544e-4454-96c5-82c6e9f06f42" alt="Figma" width="1000"  height="500">
 
 ## 📜[ERD](https://www.erdcloud.com/d/SEz3HouJH7wNG4B8W)
-
-<img width="950" alt="PiroTime_erd" src="https://github.com/user-attachments/assets/6c786b8a-1fbf-401d-81a7-410b3a7b69cf">
+<img src="https://github.com/user-attachments/assets/7cddc4cd-f479-4f96-8635-e7dbe6b733da" alt="ERD" width="1000"  height="500">
 
 # 💞팀원 소개
 
