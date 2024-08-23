@@ -32,12 +32,12 @@
 - 유저 회원가입/로그인
 - 회원가입/로그인을 하면 start 페이지로 넘어간다.
 
-![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/fea7856a-9d8c-4922-accf-8d8489359861)
-
 #### 시작 페이지
 
 - 각 게시판 인기글 확인 가능
 - 커피챗 다수 진행한 선배님 확인 가능
+
+![PiroTime - Chrome 2024-08-19 20-13-35](https://github.com/user-attachments/assets/fea7856a-9d8c-4922-accf-8d8489359861)
 
 #### 커피챗
 
